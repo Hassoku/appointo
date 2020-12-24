@@ -1,0 +1,4 @@
+.note-editor .card-dark:not(.card-outline) .card-header, .card-dark:not(.card-outline) .card-header a
+ {
+    color: black;
+ }
